@@ -1,0 +1,5 @@
+Timestamp,Level,Message
+2026-04-14 10:00:00,INFO,Application started
+2026-04-14 10:05:23,WARNING,Disk space low
+2026-04-14 10:10:45,ERROR,Failed to connect to database
+2026-04-14 10:15:00,INFO,User login successful
